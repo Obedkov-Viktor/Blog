@@ -4,3 +4,24 @@
 .storybook
 node_modules
 webpack
+.github
+
+# Файлы конфигурации
+.editorconfig
+.eslintignore
+.eslintrc.js
+.prettierignore
+.prettierrc.js
+.stylelintignore
+.stylelintrc.json
+
+# Файлы сборки и настройки IDE
+blog-customizer@1.0.0
+husky
+.husky
+
+# Файлы зависимостей и конфигурации
+package.json
+package-lock.json
+postcss.config.js
+tsconfig.json
